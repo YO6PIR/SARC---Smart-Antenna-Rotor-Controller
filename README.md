@@ -122,3 +122,17 @@ The communication, calibration, target control, manual tracking, BM persistence 
 
 **73 de YO6PIR!** 📡  
 *SARC — practical antenna positioning, with the MASTER in control.*
+## Download SARC for Android
+
+The SARC Android application is available as a precompiled APK.
+
+**[Download the latest SARC release](../../releases/latest)**
+
+- Designed for Android 6.0 and compatible devices.
+- Requires USB OTG support.
+- Requires a compatible STM32 SARC MASTER controller for rotor operation.
+- No Google Play installation required.
+
+Download the APK, transfer it to your Android device, and install it. Android may ask you to allow installation from this source.
+
+**Note:** Download SARC only from the official GitHub repository.
