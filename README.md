@@ -66,11 +66,12 @@ The schematic includes the power circuitry, motor reversing relays, manual contr
 
 ### Electrical schematic
 
-![SARC electrical schematic — replace with your image](docs/sarc_schematic.png)
+<img width="3508" height="2480" alt="SARC_sch" src="https://github.com/user-attachments/assets/98ba3c1a-77d8-4579-bf36-f8c73214d6b9" />
+
 
 ### Rotor encoder / mechanical assembly
 
-![Rotor encoder disc and sensor assembly — add photograph or drawing](docs/sarc_rotor.jpg)
+<img width="300" height="200" alt="Diagram tehnic al rotorului encoder SARC" src="https://github.com/user-attachments/assets/09ec5673-45bd-412b-b7d5-619bee7406d7" />
 
 > **Hardware note:** Verify relay wiring, motor current, power dissipation, isolation, limit switches and RF protection for your particular rotor before connecting the real motor. The repository schematic is a project reference, not a certified commercial design.
 
