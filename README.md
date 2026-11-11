@@ -4,7 +4,8 @@
 **Project by YO6PIR** · Status: functional prototype / bench-tested
 
 <p align="center">
-<img width="2952" height="1660" alt="20261111_071705" src="https://github.com/user-attachments/assets/842177c7-0464-4065-aa41-66ed962729c0" />
+<img width="1448" height="1086" alt="Controler rotor antenă inteligentă SARC" src="https://github.com/user-attachments/assets/9d6331b9-0846-4b7b-a21c-863a01810a7b" />
+
 
 </p>
 
