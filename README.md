@@ -132,6 +132,9 @@ SARC Video:
 [https://youtu.be/lfWTloDOJ1s
 ](https://youtu.be/lfWTloDOJ1s)
 
+Calibrare SARC:
+https://youtu.be/UpQaLahb5Wc
+
 
 - Designed for Android 6.0 and compatible devices.
 - Requires USB OTG support.
