@@ -4,7 +4,8 @@
 **Project by YO6PIR** · Status: functional prototype / bench-tested
 
 <p align="center">
-  <img src="docs/sarc_hmi.png" alt="SARC Android control interface — add screenshot" width="760">
+<img width="2952" height="1660" alt="20261111_071705" src="https://github.com/user-attachments/assets/842177c7-0464-4065-aa41-66ed962729c0" />
+
 </p>
 
 SARC provides a modern azimuth display and straightforward control of a directional antenna rotor. An **Android tablet** acts as the human–machine interface (HMI), while an **STM32 MASTER** measures the rotor position, drives the motor relays and manages safety, calibration and persistent state.
