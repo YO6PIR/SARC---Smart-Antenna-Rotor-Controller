@@ -128,6 +128,10 @@ The SARC Android application is available as a precompiled APK.
 
 **[Download the latest SARC release]**
 
+SARC Video:
+[https://youtu.be/lfWTloDOJ1s
+](https://youtu.be/lfWTloDOJ1s)
+
 
 - Designed for Android 6.0 and compatible devices.
 - Requires USB OTG support.
