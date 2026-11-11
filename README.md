@@ -126,7 +126,7 @@ The communication, calibration, target control, manual tracking, BM persistence 
 
 The SARC Android application is available as a precompiled APK.
 
-**[Download the latest SARC release]**
+**[Download the latest SARC release]https://github.com/YO6PIR/SARC---Smart-Antenna-Rotor-Controller/blob/main/SARC-v1.0-YO6PIR.apk**
 
 SARC Video:
 [https://youtu.be/lfWTloDOJ1s
